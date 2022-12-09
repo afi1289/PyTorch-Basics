@@ -1,2 +1,2 @@
 # PyTorch-Basics
-Notebooks to learn PyTorch in depth with Image Classification examples
+Learn PyTorch Workflow with image classification examples
